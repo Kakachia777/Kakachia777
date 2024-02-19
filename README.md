@@ -1,7 +1,7 @@
 <h1 align="center">👦Beka Kakachia</h1>
 <h3 align="center">🤖Machine Learning Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="[https://images.squarespace-cdn.com/content/v1/53713e61e4b0cc8670954e4a/3930d85b-0353-48ce-a800-a3f0b21959cd/ezgif.com-optimize+%2812%29.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FNvL&psig=AOvVaw1kO0c_0up2M_XuFb-7DkN7&ust=1708442038886000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjXsd7Yt4QDFQAAAAAdAAAAABAP)"> 
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/NvL.gif"> 
 
 <img src="https://komarev.com/ghpvc/?username=kakachia777&label=Profile%20views&color=0e75b6&style=flat" alt="kakachia777" /> </p>
 
