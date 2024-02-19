@@ -1,7 +1,7 @@
 <h1 align="center">👦Beka Kakachia</h1>
 <h3 align="center">🤖Machine Learning Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fjoel-kinnaman-gif-altered-carbon--321303754661328643%2F&psig=AOvVaw0-v3Z0GuqlRNdrQXTRyYu2&ust=1708442591452000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDJ5ODat4QDFQAAAAAdAAAAABAD"> 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fjoel-kinnaman-gif-altered-carbon--321303754661328643%2F&psig=AOvVaw0-v3Z0GuqlRNdrQXTRyYu2&ust=1708442591452000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDJ5ODat4QDFQAAAAAdAAAAABAD](https://i.pinimg.com/originals/f6/66/ce/f666ce7b21152768e565ce0b0a3ce1ca.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakachia777&label=Profile%20views&color=0e75b6&style=flat" alt="kakachia777" /> </p>
 
