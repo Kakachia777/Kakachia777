@@ -28,7 +28,7 @@
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kakachia777&show_icons=true&locale=en&layout=compact" alt="kakachia777" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kakachia777&show_icons=true&locale=en" alt="kakachia777" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kakachia777&" alt="kakachia777" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kakachia777&" alt="kakachia777" />
 </p>
 
 
