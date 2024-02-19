@@ -1,4 +1,4 @@
-<h1 align="center">Beka Kakachia</h1>
+<h1 align="center">Beka Kakachia💎</h1>
 <h3 align="center">Machine Learning Engineer🤖😎🏆</h3>
 
 <p align="center">
