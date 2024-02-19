@@ -1,7 +1,7 @@
 <h1 align="center">👦Beka Kakachia</h1>
 <h3 align="center">🤖Machine Learning Engineer</h3>
 
-<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/f6/66/ce/f666ce7b21152768e565ce0b0a3ce1ca.gif"> 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f6/66/ce/f666ce7b21152768e565ce0b0a3ce1ca.gif"> 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kakachia777&label=Profile%20views&color=0e75b6&style=flat" alt="kakachia777" /> </p>
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kakachia777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kakachia777" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/beka kakachia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beka kakachia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/beka-kakachia-bb383016a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beka kakachia" height="30" width="40" /></a>
 <a href="https://instagram.com/@kakachia777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kakachia777" height="30" width="40" /></a>
 <a href="https://discord.gg/kakachia777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kakachia777" height="30" width="40" /></a>
 </p>
