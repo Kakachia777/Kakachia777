@@ -1,10 +1,9 @@
 <h1 align="center">👦Beka Kakachia</h1>
 <h3 align="center">🤖Machine Learning Engineer</h3>
 
-<div style="text-align:center;">
-    <img src="https://i.pinimg.com/originals/f6/66/ce/f666ce7b21152768e565ce0b0a3ce1ca.gif" alt="coding" width="400">
-</div>
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f6/66/ce/f666ce7b21152768e565ce0b0a3ce1ca.gif" alt="coding" width="400">
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kakachia777" alt="kakachia777" /></a> </p>
 
