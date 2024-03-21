@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kakachia777" alt="kakachia777" /></a> </p>
 
-- 🔭 I’m currently working on **Jarvis Web Agent**
+- 🔭 I’m currently working and building **AI Agencies**
 
-- 🤝 I’m looking for help with **Automation Projects**
+- 🤝 I’m looking for collaborators with **Automation Projects**
 
 - 📫 How to reach me **beka.kakachia777@gmail.com**
 
