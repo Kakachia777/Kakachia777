@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kakachia777" alt="kakachia777" /></a> </p>
 
-- 🔭 We are currently working and building **Syntrofia**
+- 🔭 We are currently working and building **SyntrofAI**
 
 - 🤝 We've looking for collaborators in the next fields: **Machine Learning, AI Engineering, Data Science, Research Engineering, Security Engineering**
 
