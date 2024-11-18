@@ -1,5 +1,5 @@
 <h1 align="center">Beka Kakachia💎</h1>
-<h3 align="center">Machine Learning Engineer🧠🤖🏆</h3>
+<h3 align="center">AI Developer🧠🤖🏆</h3>
 <h3 align="center">Systems Designer🤝🛠️🌏</h3>
 
 <p align="center">
