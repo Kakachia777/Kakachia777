@@ -12,7 +12,7 @@
 
 - 🤝 I'm looking for collaborators in the next stack of tool: **CrewAI, ComfyUI, Letta, LangSmith, AutoGPT**
 
-- 📫 How to reach me **beka.kakachia777@gmail.com**
+- 📫 How to reach me **beka.kakachia777@gmail.com or write me on any of my socials ↓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
