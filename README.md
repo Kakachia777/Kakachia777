@@ -10,7 +10,7 @@
 
 - 🔭 We are currently working and building **SyntrofAI**
 
-- 🤝 We've looking for collaborators in the next fields: **Machine Learning, AI Engineering, Data Science, Research Engineering, Security Engineering**
+- 🤝 I'm looking for collaborators in the next stack of tool: **CrewAI, ComfyUI, Letta, LangSmith, AutoGPT**
 
 - 📫 How to reach me **beka.kakachia777@gmail.com**
 
