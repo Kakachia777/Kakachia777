@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kakachia777" alt="kakachia777" /></a> </p>
 
-- 🔭 We are currently working and building **SyntrofAI**
+- 🔭 We are currently working and building **SyntrofAI** and **Donut Beauty**
 
 - 🤝 I'm looking for collaborators in the next stack of tool: **CrewAI, ComfyUI, Letta, LangSmith, AutoGPT**
 
