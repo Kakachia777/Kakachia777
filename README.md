@@ -10,7 +10,7 @@
 
 - 🔭 We are currently working and building **SyntrofAI** and **Donut Beauty**
 
-- 🤝 I'm looking for collaborators in the next stack of tool: **CrewAI, ComfyUI, Letta, LangSmith, AutoGPT**
+- 🤝 I'm looking for collaborators in the next stack of tool: **CrewAI, ComfyUI, Letta, LangSmith, AutoGPT, LangChain**
 
 - 📫 How to reach me **beka.kakachia777@gmail.com or write me on any of my socials ↓**
 
