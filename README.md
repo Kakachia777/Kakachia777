@@ -22,7 +22,7 @@
 <a href="https://discord.com/users/1061269419487133736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kakachia777" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My AI Agent Stack</h3>
 <p align="left"> <a href="https://discord.com/users/1061269419487133736" target="blank"><img align="center" src="https://cdn.prod.website-files.com/66bb3d1f468f0f3848a20a84/67361c7879df5b88f88a2c7a_67361c696ebead1b0ac05d21_agents-stack-map-nov-14-24.webp" alt="kakachia777" height="530" width="470" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
