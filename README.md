@@ -14,8 +14,8 @@
 
 - 📫 How to reach me **beka.kakachia777@gmail.com or write me on any of my socials ↓**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/bekakakachia777" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="kakachia777" height="42" width="42" /></a>
 <a href="https://www.linkedin.com/in/beka-kakachia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beka kakachia" height="30" width="40" /></a>
 <a href="https://instagram.com/kakachia777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kakachia777" height="30" width="40" /></a>
