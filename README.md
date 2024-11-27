@@ -1,6 +1,6 @@
 <h1 align="center">Beka Kakachia💎</h1>
-<h3 align="center">AI Developer🧠🤖🏆</h3>
-<h3 align="center">Automation Specialist🤝🛠️🌏</h3>
+<h3 align="center">AI Developer 🧠🤖🏆</h3>
+<h3 align="center">Automation Specialist 🤝🛠️🌏</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f6/66/ce/f666ce7b21152768e565ce0b0a3ce1ca.gif" alt="coding" width="400">
