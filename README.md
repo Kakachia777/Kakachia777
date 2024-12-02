@@ -82,13 +82,13 @@ I'm actively seeking collaborators in cutting-edge AI tools and frameworks:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kakachia777&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakachia777&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kakachia777&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🌐 My AI Agent Stack
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/66bb3d1f468f0f3848a20a84/67361c7879df5b88f88a2c7a_67361c696ebead1b0ac05d21_agents-stack-map-nov-14-24.webp" alt="AI Agent Stack" width="600" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
+  <img src="https://ibb.co/3N6bqNm" alt="AI Agent Stack" width="600" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
 </p>
 
 ---
