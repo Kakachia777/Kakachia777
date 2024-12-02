@@ -84,10 +84,6 @@ I'm actively seeking collaborators in cutting-edge AI tools and frameworks:
   <img src="https://github-readme-stats.vercel.app/api?username=kakachia777&show_icons=true&theme=radical" alt="GitHub Stats" width="600" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kakachia777&theme=radical" alt="GitHub Activity Graph" width="600" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
-</p>
-
 
 ## 🌐 My AI Agent Stack
 
