@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Beka Kakachia | AI Innovator & Automation Architect 💎</h1>
+<h1 align="center">🚀 Beka Kakachia | AI Engineer 💎</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f6/66/ce/f666ce7b21152768e565ce0b0a3ce1ca.gif" alt="coding" width="400" style="border-radius: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
