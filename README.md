@@ -28,12 +28,14 @@
 
 ## 🤝 Collaboration Interests
 
-I'm actively seeking collaborators in cutting-edge AI tools and frameworks:
+I'm actively seeking collaborators in 2024 AI tools and frameworks:
 - 🤖 **CrewAI**
 - 🎨 **ComfyUI**
 - 🔗 **LangChain**
 - 🧠 **AutoGPT**
 - 🛠️ **LangSmith**
+- 🗡️ **LangFuse**
+- 📦 **Crawl4AI**
 
 ## 📡 Let's Connect!
 
