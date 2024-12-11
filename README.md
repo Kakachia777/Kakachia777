@@ -23,8 +23,8 @@
 
 ## 🔬 Current Ventures
 
-- 🌃 Building **SyntrofAI**: Revolutionizing AI collaboration and workflow automation - https://syntrofai.webflow.io/
-- 💜 Developing **Donut Beauty**: Merging technology with beauty innovation
+- 🌃 Building **SyntrofAI**: Revolutionizing AI collaboration and workflow automation → https://syntrofai.webflow.io/
+- 💜 Developing **Donut Beauty**: Merging technology with beauty innovation → https://donutbeauty.webflow.io/
 
 ## 🤝 Collaboration Interests
 
