@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center">
-  🧠 Automation Solutions | 🤖 AI Developer | 🌐 Global Tech Innovator
+  🧠 Automation Solutions | 🤖 AI Developer | 🔮 GenAI Innovator
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ## 🔬 Current Ventures
 
 - 🚀 Building **SyntrofAI**: Revolutionizing AI collaboration and workflow automation
-- 💄 Developing **Donut Beauty**: Merging technology with beauty innovation
+- 💜 Developing **Donut Beauty**: Merging technology with beauty innovation
 
 ## 🤝 Collaboration Interests
 
