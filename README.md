@@ -23,7 +23,7 @@
 
 ## 🔬 Current Ventures
 
-- 🚀 Building **SyntrofAI**: Revolutionizing AI collaboration and workflow automation
+- 🌃 Building **SyntrofAI**: Revolutionizing AI collaboration and workflow automation
 - 💜 Developing **Donut Beauty**: Merging technology with beauty innovation
 
 ## 🤝 Collaboration Interests
