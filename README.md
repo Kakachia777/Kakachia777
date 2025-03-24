@@ -24,18 +24,8 @@
 ## 🔬 Current Ventures
 
 - 🌃 Building **SyntrofAI**: Revolutionizing AI collaboration and workflow automation → https://syntrofai.webflow.io/
-- 💜 Developing **Donut Beauty**: Merging technology with beauty innovation → https://donutbeauty.webflow.io/
 
 ## 🤝 Collaboration Interests
-
-I'm actively seeking collaborators in 2024 AI tools and frameworks:
-- 🤖 **CrewAI**
-- 🎨 **ComfyUI**
-- 🔗 **LangChain**
-- 🧠 **AutoGPT**
-- 🛠️ **LangSmith**
-- 🗡️ **LangFuse**
-- 📦 **Crawl4AI**
 
 ## 📡 Let's Connect!
 
