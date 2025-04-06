@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center">
-  🧠 Automation Solutions | 🤖 AI Developer | 🔮 GenAI Innovator
+  🧠 System Solution Design | 🤖 AI Engineer | 🔮 GenAI Innovator
 </h3>
 
 <p align="center">
@@ -23,9 +23,8 @@
 
 ## 🔬 Current Ventures
 
-- 🌃 Building **SyntrofAI**: Revolutionizing AI collaboration and workflow automation → https://syntrofai.webflow.io/
-
-## 🤝 Collaboration Interests
+- 🌃 Building **SyntrofAI**: Revolutionizing AI Agents Space → https://syntrofai.webflow.io/
+- 🐸 Building **PepeHuang**: Revolutionizing Crypto Space → https://pepehuang.webflow.io
 
 ## 📡 Let's Connect!
 
