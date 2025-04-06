@@ -24,7 +24,7 @@
 ## 🔬 Current Ventures
 
 - 🌃 Building **SyntrofAI**: Revolutionizing AI Agents Space → https://syntrofai.webflow.io/
-- 🐸 Building **PepeHuang**: Revolutionizing Crypto Space → https://pepehuang.webflow.io
+- 🐸 Building **PepeHuang**: Revolutionizing Crypto Space → https://pepehuang.webflow.io/
 
 ## 📡 Let's Connect!
 
