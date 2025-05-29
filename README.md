@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center">
-  🧠 System Solution Design | 🤖 AI Engineer | 🔮 GenAI Innovator
+  🤖 AI Engineer
 </h3>
 
 <p align="center">
