@@ -23,7 +23,7 @@
 
 ## 🔬 Current Ventures
 
-- 🌃 Building **SyntrofAI**: Revolutionizing AI Agents Space → https://syntrofai.webflow.io/
+- 🌃 Building **SyntrofAI**: Revolutionizing AI Space → https://syntrofai.com/
 - 🐸 Building **PepeHuang**: Revolutionizing Crypto Space → https://pepehuang.webflow.io/
 
 ## 📡 Let's Connect!
@@ -73,13 +73,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kakachia777&show_icons=true&theme=radical" alt="GitHub Stats" width="600" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
-</p>
-
-
-## 🌐 My AI Agent Stack
-
-<p align="center">
-  <img src="Stack.png" alt="AI Agent Stack" width="600" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
 </p>
 
 ---
