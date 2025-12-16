@@ -17,7 +17,7 @@
 
 ## 🔬 Current Ventures
 
-- 🌃 Building **SyntrofAI**: Revolutionizing AI Space → https://syntrofai.com/
+- **SyntrofAI**: First Multi Agent OS → https://syntrofai.com/
 
 ## 🛠 Tech Arsenal
 
