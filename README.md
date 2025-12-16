@@ -24,7 +24,6 @@
 ## 🔬 Current Ventures
 
 - 🌃 Building **SyntrofAI**: Revolutionizing AI Space → https://syntrofai.com/
-- 🐸 Building **PepeHuang**: Revolutionizing Crypto Space → https://pepehuang.webflow.io/
 
 ## 🛠 Tech Arsenal
 
