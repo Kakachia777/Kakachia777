@@ -15,12 +15,6 @@
   🤖 AI Engineer
 </h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kakachia777&theme=radical&no-frame=true&margin-w=15" alt="kakachia777" />
-  </a>
-</p>
-
 ## 🔬 Current Ventures
 
 - 🌃 Building **SyntrofAI**: Revolutionizing AI Space → https://syntrofai.com/
