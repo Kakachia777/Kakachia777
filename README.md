@@ -72,9 +72,9 @@ Inside the app:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://docs.syntrofai.com/docs/workflows"><img src="./assets/product/workflows.webp" alt="The workflow canvas with its Add a step panel" width="100%"></a>
+      <a href="https://docs.syntrofai.com/docs/workflows"><img src="./assets/product/workflow-flow.webp" alt="A complete workflow on the canvas: sources researched in parallel, merged, reviewed, and delivered as a brief on WhatsApp" width="100%"></a>
       <br><b>Work that repeats runs itself</b><br>
-      A process you repeat becomes steps on a canvas, with a human review wherever it matters. It runs on a schedule, even with the browser closed.
+      A process you repeat becomes a workflow: sources researched in parallel, merged, reviewed, and delivered as a brief on WhatsApp. It runs on a schedule, even with the browser closed.
     </td>
     <td width="50%" valign="top">
       <a href="https://docs.syntrofai.com/docs/cloud-computer"><img src="./assets/product/cloud-computer.webp" alt="The Live Desktop: a full desktop with real apps, running on the instance" width="100%"></a>
