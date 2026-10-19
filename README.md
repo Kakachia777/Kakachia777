@@ -24,7 +24,38 @@
 
 <a href="https://syntrofai.com"><img alt="SyntrofAI logo. Give SyntrofAI a goal. It plans the work, does it, checks it, and only comes back when your judgment is needed. syntrofai.com" src="./assets/syntrofai.png" width="100%"></a>
 
-SyntrofAI is an AI team that runs a company's work and answers for it. Here is what that looks like inside.
+SyntrofAI is an AI team that runs a company's work and answers for it. You give it one sentence:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://syntrofai.com"><img src="./assets/demo/pipeline.webp" alt="Fill this quarter's pipeline: research, meetings booked, done with three decisions" width="100%"></a>
+      <br><b>"Fill this quarter's pipeline."</b><br>
+      It reads the market, writes to the right people, books next week's meetings, and comes back with three decisions for you.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://syntrofai.com"><img src="./assets/demo/marketing.webp" alt="Run our socials this week, a question answered from memory, and a game built for a launch" width="100%"></a>
+      <br><b>"Run our socials this week."</b><br>
+      Then "What did we agree with Oakmere in March?", answered from memory. Then "Build a game for our launch."
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://syntrofai.com"><img src="./assets/demo/launch.webp" alt="Make everything for our launch, get us to $10M ARR, and a hiring workflow that runs every Monday" width="100%"></a>
+      <br><b>"Make everything for our launch."</b><br>
+      Then "Get us to $10M ARR", with a team of agents on it, and a hiring workflow that runs every Monday.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://syntrofai.com"><img src="./assets/demo/research.webp" alt="Find a cheaper battery electrolyte, then the work reaching you on your phone" width="100%"></a>
+      <br><b>"Find a cheaper battery electrolyte."</b><br>
+      Thousands of options read and ranked. It all reaches you on your phone, and only your decisions do.
+    </td>
+  </tr>
+</table>
+
+<sub>Clips from the SyntrofAI film. Watch it whole on <a href="https://syntrofai.com">syntrofai.com</a>.</sub>
+
+Inside the app:
 
 <table>
   <tr>
