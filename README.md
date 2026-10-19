@@ -77,9 +77,9 @@ Inside the app:
       A process you repeat becomes steps on a canvas, with a human review wherever it matters. It runs on a schedule, even with the browser closed.
     </td>
     <td width="50%" valign="top">
-      <a href="https://docs.syntrofai.com/docs/memory/intelligence"><img src="./assets/product/memory.webp" alt="Intelligence: what the system believes by topic, with evidence" width="100%"></a>
-      <br><b>Memory that shows its proof</b><br>
-      Facts, documents and past work, kept with their sources. Intelligence shows what the system believes about each topic, with the evidence for and against it.
+      <a href="https://docs.syntrofai.com/docs/cloud-computer"><img src="./assets/product/cloud-computer.webp" alt="The Live Desktop: a full desktop with real apps, running on the instance" width="100%"></a>
+      <br><b>A computer of its own</b><br>
+      A full desktop with real apps runs on your instance. Nova works in it with mouse and keyboard, the way a person would, and you share the same screen.
     </td>
   </tr>
 </table>
