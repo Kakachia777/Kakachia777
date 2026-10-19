@@ -20,7 +20,7 @@
 
 ## Building SyntrofAI
 
-<a href="https://syntrofai.com"><img alt="SyntrofAI. Give SyntrofAI a goal. It plans the work, does it, checks it, and only comes back when your judgment is needed. syntrofai.com" src="./assets/syntrofai.png" width="100%"></a>
+<a href="https://syntrofai.com"><img alt="SyntrofAI logo. Give SyntrofAI a goal. It plans the work, does it, checks it, and only comes back when your judgment is needed. syntrofai.com" src="./assets/syntrofai.png" width="100%"></a>
 
 I'm **Beka Kakachia**, founder of **[SyntrofAI](https://syntrofai.com)**. My focus is the engineering between a capable model and a useful product: **retrieval, context, agent execution, and evaluation**.
 
