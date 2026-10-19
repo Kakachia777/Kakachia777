@@ -9,7 +9,7 @@
   &nbsp; / &nbsp;
   <a href="https://docs.syntrofai.com">Product docs</a>
   &nbsp; / &nbsp;
-  <a href="mailto:beka.kakachia777@gmail.com">Contact</a>
+  <a href="mailto:beka@syntrofai.com">Contact</a>
 </p>
 
 <br>
@@ -239,7 +239,7 @@ For acceptance, prefer executable checks and source-backed assertions where poss
 
 Working on **retrieval, context engineering, or reliable agents**? I'd be glad to compare notes.
 
-**[SyntrofAI](https://syntrofai.com)** &nbsp; · &nbsp; **[Documentation](https://docs.syntrofai.com)** &nbsp; · &nbsp; **[Email](mailto:beka.kakachia777@gmail.com)**
+**[SyntrofAI](https://syntrofai.com)** &nbsp; · &nbsp; **[Documentation](https://docs.syntrofai.com)** &nbsp; · &nbsp; **[Email](mailto:beka@syntrofai.com)**
 
 <br>
 
