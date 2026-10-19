@@ -1,4 +1,4 @@
-<img alt="Beka Kakachia, founder of SyntrofAI. Accountable AI: give it a goal, it plans the work, does it, checks it, and only comes back when your judgment is needed." src="./assets/banner.png" width="100%">
+<img alt="Beka Kakachia, founder of SyntrofAI and AI engineer. Accountable AI: give it a goal, it plans the work, does it, checks it, and only comes back when your judgment is needed." src="./assets/banner.png" width="100%">
 
 <p align="center">
   <a href="https://syntrofai.com"><strong>SyntrofAI ↗</strong></a>
