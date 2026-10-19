@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Beka Kakachia — Founder of SyntrofAI. Engineering AI that gets the work done." src="./assets/header-light.svg" width="100%">
-</picture>
+<img alt="Beka Kakachia, founder of SyntrofAI. Accountable AI: give it a goal, it plans the work, does it, checks it, and only comes back when your judgment is needed." src="./assets/banner.png" width="100%">
 
 <p align="center">
   <a href="https://syntrofai.com"><strong>SyntrofAI ↗</strong></a>
@@ -247,11 +243,7 @@ Working on **retrieval, context engineering, or reliable agents**? I'd be glad t
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
-  <img alt="A clear goal. Checked work. Human judgment." src="./assets/footer-light.svg" width="100%">
-</picture>
+<img alt="A clear goal. Checked work. Human judgment." src="./assets/footer.png" width="100%">
 
 [syntrofai-memory]: https://docs.syntrofai.com/docs/memory/
 [syntrofai-teams]: https://docs.syntrofai.com/docs/teams/
