@@ -1,4 +1,4 @@
-<img alt="Beka Kakachia, founder of SyntrofAI and AI engineer. Give SyntrofAI a goal: it plans the work, does it, checks it, and only comes back when your judgment is needed." src="./assets/banner.png" width="100%">
+<img alt="Beka Kakachia, founder of SyntrofAI and AI engineer. I build the engineering between a capable model and a useful product: retrieval, context, agent execution and evaluation. X @bkakachia777, LinkedIn beka-kakachia, GitHub Kakachia777." src="./assets/banner.png" width="100%">
 
 <p align="center">
   <a href="https://syntrofai.com"><strong>SyntrofAI ↗</strong></a>
@@ -10,13 +10,17 @@
   <a href="https://docs.syntrofai.com">Product docs</a>
   &nbsp; / &nbsp;
   <a href="mailto:beka@syntrofai.com">Contact</a>
+  &nbsp; / &nbsp;
+  <a href="https://x.com/bkakachia777">X</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/beka-kakachia/">LinkedIn</a>
 </p>
 
 <br>
 
 ## Building SyntrofAI
 
-<a href="https://syntrofai.com"><img alt="SyntrofAI" src="./assets/syntrofai.png" width="100%"></a>
+<a href="https://syntrofai.com"><img alt="SyntrofAI. Give SyntrofAI a goal. It plans the work, does it, checks it, and only comes back when your judgment is needed. syntrofai.com" src="./assets/syntrofai.png" width="100%"></a>
 
 I'm **Beka Kakachia**, founder of **[SyntrofAI](https://syntrofai.com)**. My focus is the engineering between a capable model and a useful product: **retrieval, context, agent execution, and evaluation**.
 
