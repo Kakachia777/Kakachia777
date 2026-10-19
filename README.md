@@ -7,8 +7,6 @@
   &nbsp; / &nbsp;
   <a href="#why-im-building-it">My story</a>
   &nbsp; / &nbsp;
-  <a href="#model-selection">Model selection</a>
-  &nbsp; / &nbsp;
   <a href="https://docs.syntrofai.com">Product docs</a>
   &nbsp; / &nbsp;
   <a href="mailto:beka@syntrofai.com">Contact</a>
@@ -115,63 +113,6 @@ What I want is a company where a founder with a few people runs what used to tak
 
 <br>
 
-## Model selection
-
-**Route by task, then measure the complete workflow.** A model's quality, tool behavior, latency, and retry rate all affect the cost of a finished result.
-
-The table below is a **shortlist to evaluate**, based on current official capability guidance. It is not a claim that I've benchmarked these models against each other or that one model wins every workload. Reviewed **19 October 2026**.
-
-| Workload | Models I'd compare first | What I'd test |
-| :--- | :--- | :--- |
-| **Everyday coding and tool-driven work** | [GPT-6.1 Sol][openai-models] · [Claude Sonnet 5.5][claude-models] | Completed tasks per dollar, correct tool calls, code tests, and recovery. |
-| **Difficult debugging and large refactors** | [Claude Opus 5.5][claude-models] · [GPT-6 Astra][openai-models] | Repository-level success, regression risk, and total attempts. |
-| **Complex reasoning and extended agent work** | [GPT-6 Astra][openai-models] · [Claude Fable 5.1][claude-models] | Correctness over long runs, evidence use, and whether extra reasoning pays for itself. |
-| **Classification, extraction, and routing** | [GPT-6 Luna][openai-models] · [Claude Haiku 5.5][claude-models] | Schema validity, field accuracy, abstention, and p95 latency. |
-| **Mixed document, image, audio, and video inputs** | [Gemini 4 Argon][gemini-argon] · [Gemini 3.8 Flash][gemini-flash] | Cross-modal grounding, document fidelity, and quality at the required response time. |
-
-**Retrieval models are a separate decision.** I'd compare [Qwen3 embedding and reranker models][qwen-embedding] with [BGE / FlagEmbedding][flagembedding] on retrieval metrics independently of the model that writes the answer.
-
-**Self-hosting is another axis.** For an open-weight model that meets the task's quality target, compare [vLLM][vllm] and [SGLang][sglang] under the expected concurrency; consider [llama.cpp][llamacpp] for local or quantized inference. Model licensing, hardware fit, and operating cost are part of that choice. [LiteLLM][litellm] is a gateway candidate when multiple providers need a shared application interface.
-
-<details>
-<summary><strong>05 / How I'd evaluate and route models</strong></summary>
-
-<br>
-
-1. **Define the job.** Fix the inputs, output contract, tools, representative examples, and acceptance criteria.
-2. **Establish quality.** Find a model and configuration that meets the target before optimizing for cost.
-3. **Compare under the same conditions.** Use the same tool harness, context policy, and evaluation set; record model version and reasoning effort.
-4. **Test cheaper routes.** Keep a cheaper model where it meets the target. Escalate on failed validation, missing evidence, or measured task difficulty.
-5. **Measure the whole run.** Include retries, tool calls, reasoning tokens, and human corrections. Cost per accepted result is more useful than token price alone.
-6. **Rerun after changes.** Models, prompts, retrieval, and tools can each introduce regressions.
-
-SyntrofAI's [model-role documentation][syntrofai-models] describes independent choices for main work, utility work, autonomous planning, recovery, and memory search. The shortlist above is separate from the product's configured defaults.
-
-</details>
-
-<details>
-<summary><strong>06 / Evaluation and observability — make failures inspectable</strong></summary>
-
-<br>
-
-I'd start with **[Promptfoo][promptfoo]** for regression tests and **[Ragas][ragas]** for retrieval/response evaluation. Compare **[Langfuse][langfuse]** and **[Phoenix][phoenix]** for trace inspection, datasets, and experiments. Use **[DSPy][dspy]** when optimizing a language-model program against a measurable objective, with a separate holdout set.
-
-The tools support the process; the task defines what a good result means.
-
-| Layer | Failure cases I'd include |
-| :--- | :--- |
-| **Retrieval** | Exact identifiers, paraphrases, access filters, stale documents, missing answers, and misleading near-matches. |
-| **Memory** | A corrected preference, a superseded fact, deletion, time-scoped questions, and cross-workspace isolation. |
-| **Tools** | Invalid arguments, timeouts, partial success, expired credentials, and duplicate-write attempts. |
-| **Agents** | Interrupted runs, failed subtasks, declined actions, budget exhaustion, and incorrect completion claims. |
-| **Models** | Invalid structure, unsupported statements, inconsistent judgments, and regressions after a version change. |
-
-For acceptance, prefer executable checks and source-backed assertions where possible; calibrate model-based judges against human-reviewed examples.
-
-</details>
-
-<br>
-
 ## Connect
 
 Working on **retrieval, context engineering, or reliable agents**? I'd be glad to compare notes.
@@ -181,20 +122,3 @@ Working on **retrieval, context engineering, or reliable agents**? I'd be glad t
 <br>
 
 <img alt="A clear goal. Checked work. Human judgment." src="./assets/footer.png" width="100%">
-
-[syntrofai-models]: https://docs.syntrofai.com/docs/models/
-[qwen-embedding]: https://github.com/QwenLM/Qwen3-Embedding
-[promptfoo]: https://github.com/promptfoo/promptfoo
-[langfuse]: https://github.com/langfuse/langfuse
-[openai-models]: https://developers.openai.com/api/docs/models
-[claude-models]: https://platform.claude.com/docs/en/models/overview
-[gemini-argon]: https://ai.google.dev/gemini-api/docs/models/gemini-4-argon
-[gemini-flash]: https://ai.google.dev/gemini-api/docs/models/gemini-3.8-flash
-[flagembedding]: https://github.com/FlagOpen/FlagEmbedding
-[vllm]: https://github.com/vllm-project/vllm
-[sglang]: https://github.com/sgl-project/sglang
-[llamacpp]: https://github.com/ggml-org/llama.cpp
-[litellm]: https://github.com/BerriAI/litellm
-[ragas]: https://github.com/vibrantlabsai/ragas
-[dspy]: https://github.com/stanfordnlp/dspy
-[phoenix]: https://github.com/Arize-ai/phoenix
