@@ -16,6 +16,8 @@
 
 ## Building SyntrofAI
 
+<a href="https://syntrofai.com"><img alt="SyntrofAI" src="./assets/syntrofai.png" width="100%"></a>
+
 I'm **Beka Kakachia**, founder of **[SyntrofAI](https://syntrofai.com)**. My focus is the engineering between a capable model and a useful product: **retrieval, context, agent execution, and evaluation**.
 
 SyntrofAI is a **proprietary AI product** for people who want to hand over ongoing work. The source code is private; the public documentation explains the product's behavior:
